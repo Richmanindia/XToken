@@ -1,0 +1,2 @@
+# XToken
+Utility Token
